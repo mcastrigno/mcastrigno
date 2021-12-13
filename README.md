@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mcastrigno aka Matthew Castrigno  
+- 👋 Hi, I’m @mcastrigno aka Matthew Castrigno.  
 - 👀 I’m interested in full stack developement.
 - 🌱 I’m currently learning React and .NET for APIs.
 - 💞️ I’m looking to collaborate on my next project CheckIt.
