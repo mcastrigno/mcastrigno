@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mcastrigno aka Matthew Castrigno.  
 - 👀 I’m interested in full stack developement.
-- 🌱 I’m currently learning React and .NET for APIs.
-- 💞️ I’m looking to collaborate on my next project CheckIt.
+- 🌱 I’m currently perfecting my workflow with CLaude Code.
+- 💞️ I’m looking to collaborate on my project Cheket.app
 - 📫 How to reach me: matthew@castrigno.com
 
 <!---
