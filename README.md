@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcastrigno aka Matthew Castrigno.  
 - 👀 I’m interested in full stack developement.
-- 🌱 I’m currently perfecting my workflow with CLaude Code.
+- 🌱 I’m currently perfecting my workflow with Claude Code.
 - 💞️ I’m looking to collaborate on my project Cheket.app
 - 📫 How to reach me: matthew@castrigno.com
 
